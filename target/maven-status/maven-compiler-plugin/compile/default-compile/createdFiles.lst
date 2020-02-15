@@ -1,0 +1,11 @@
+me\serumdev\particles\commands\ParticlesCommand.class
+me\serumdev\particles\listeners\InventoryClickListener.class
+me\serumdev\particles\utils\RGB.class
+me\serumdev\particles\Particles.class
+me\serumdev\particles\particles\HeartParticle$1.class
+me\serumdev\particles\particles\HeartParticle.class
+me\serumdev\particles\managers\ParticleManager.class
+me\serumdev\particles\particles\MenuInventory.class
+me\serumdev\particles\utils\ParticleAPI.class
+me\serumdev\particles\objects\Coordinate.class
+me\serumdev\particles\utils\Particle.class

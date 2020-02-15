@@ -1,0 +1,7 @@
+name: Particles
+author: SerumDev
+version: 1.0
+main: me.serumdev.particles.Particles
+
+commands:
+  particles:
