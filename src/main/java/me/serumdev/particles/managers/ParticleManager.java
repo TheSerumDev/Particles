@@ -17,7 +17,7 @@ public class ParticleManager {
         particles.add(particle);
     }
 
-    public static ArrayList<Particle> getParticles() {
+    public static HashSet<Particle> getParticles() {
         return particles;
     }
 
